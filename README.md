@@ -4,9 +4,7 @@ This is a Machine Learning based Diabetes Prediction Web App built using Streaml
 
 Features:
 - Risk probability meter
-- ECG animation
 - AI explanation
-- Professional UI
 
 Technologies Used:
 - Python
